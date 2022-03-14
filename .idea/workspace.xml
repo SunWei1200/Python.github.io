@@ -48,8 +48,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
-    <option name="y" value="23" />
+    <option name="x" value="125" />
+    <option name="y" value="32" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -68,16 +68,6 @@
             <path>
               <item name="sunsun1111111111.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="sunsun1111111111.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sunsun1111111111.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sunsun1111111111.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sunsun1111111111.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sunsun1111111111.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -220,7 +210,7 @@
       <updated>1646638306923</updated>
       <workItem from="1646638311724" duration="766000" />
       <workItem from="1646639195634" duration="2057000" />
-      <workItem from="1647237478861" duration="2068000" />
+      <workItem from="1647237478861" duration="2815000" />
     </task>
     <task id="LOCAL-00001" summary="这是pycharm提交">
       <created>1646638927172</created>
@@ -271,14 +261,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647239574410</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第二次作业">
+      <created>1647239618825</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1647239618825</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4891000" />
+    <option name="totallyTimeSpent" value="5638000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="23" width="1346" height="688" extended-state="0" />
+    <frame x="125" y="32" width="1346" height="688" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25738725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -286,7 +283,7 @@
       <window_info anchor="bottom" id="调试" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992224" visible="true" weight="0.32851985" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984448" visible="true" weight="0.32851985" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -294,7 +291,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007776" side_tool="true" weight="0.32851985" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015552" side_tool="true" visible="true" weight="0.32851985" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -333,12 +330,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是pycharm提交" />
-    <MESSAGE value="第二次作业" />
     <MESSAGE value="数字输出" />
     <MESSAGE value="BMI值计算" />
     <MESSAGE value="数字加密" />
     <MESSAGE value="统计长度" />
-    <option name="LAST_COMMIT_MESSAGE" value="统计长度" />
+    <MESSAGE value="第二次作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次作业" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/sunsun1111111111_github_io$0202.coverage" NAME="0202 Coverage Results" MODIFIED="1647238163179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
