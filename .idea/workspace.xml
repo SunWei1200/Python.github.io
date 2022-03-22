@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b42162a-41cd-4ddd-9e38-59ff727499f3" name="默认更改列表" comment="第四次作业">
+    <list default="true" id="5b42162a-41cd-4ddd-9e38-59ff727499f3" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/03_example/3-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_example/3-9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/0401.py" beforeDir="false" afterPath="$PROJECT_DIR$/03/0305.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/0402.py" beforeDir="false" afterPath="$PROJECT_DIR$/03/0306.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/0403.py" beforeDir="false" afterPath="$PROJECT_DIR$/03/0307.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/0404.py" beforeDir="false" afterPath="$PROJECT_DIR$/03/0308.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +30,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04/0404.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_example/3-16.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="114">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03_example/3-17.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -50,13 +77,29 @@
         <option value="$PROJECT_DIR$/04/0402.py" />
         <option value="$PROJECT_DIR$/04/0403.py" />
         <option value="$PROJECT_DIR$/04/0404.py" />
+        <option value="$PROJECT_DIR$/03_example/3-1.py" />
+        <option value="$PROJECT_DIR$/03_example/3-2.py" />
+        <option value="$PROJECT_DIR$/03_example/3-3.py" />
+        <option value="$PROJECT_DIR$/03_example/3-4.py" />
+        <option value="$PROJECT_DIR$/03_example/3-5.py" />
+        <option value="$PROJECT_DIR$/03_example/3-6.py" />
+        <option value="$PROJECT_DIR$/03_example/3-7.py" />
+        <option value="$PROJECT_DIR$/03_example/3-8.py" />
+        <option value="$PROJECT_DIR$/03_example/3-9.py" />
+        <option value="$PROJECT_DIR$/03_example/3-10.py" />
+        <option value="$PROJECT_DIR$/03_example/3-11.py" />
+        <option value="$PROJECT_DIR$/03_example/3-12.py" />
+        <option value="$PROJECT_DIR$/03_example/3-15.py" />
+        <option value="$PROJECT_DIR$/03_example/3-16.py" />
+        <option value="$PROJECT_DIR$/03_example/3-17.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="118" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-122" />
+    <option name="y" value="51" />
     <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="添加" />
@@ -73,6 +116,11 @@
               <item name="Python.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="03_example" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -85,13 +133,17 @@
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_example" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pycharm\Python.github.io\03" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pycharm\Python.github.io\03_example" />
       <recent name="D:\pycharm\sunsun1111111111.github.io\01" />
     </key>
   </component>
@@ -107,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0404">
+  <component name="RunManager" selected="Python.3-17">
     <configuration name="0201" type="PythonConfigurationType" factoryName="Python">
       <module name="sunsun1111111111.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0304" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3-10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sunsun1111111111.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,12 +212,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03/0304.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_example/3-10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0401" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3-11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sunsun1111111111.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,12 +234,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/0401.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_example/3-11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0402" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3-15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sunsun1111111111.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,12 +256,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/0402.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_example/3-15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0403" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3-16" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sunsun1111111111.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,12 +278,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/0403.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_example/3-16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0404" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3-17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="sunsun1111111111.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,12 +300,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04/0404.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_example/3-17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0404" />
-        <item itemvalue="Python.0403" />
-        <item itemvalue="Python.0402" />
-        <item itemvalue="Python.0401" />
-        <item itemvalue="Python.0304" />
+        <item itemvalue="Python.3-17" />
+        <item itemvalue="Python.3-16" />
+        <item itemvalue="Python.3-15" />
+        <item itemvalue="Python.3-11" />
+        <item itemvalue="Python.3-10" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +339,7 @@
       <workItem from="1647237478861" duration="2815000" />
       <workItem from="1647242344169" duration="1074000" />
       <workItem from="1647932682598" duration="225000" />
-      <workItem from="1647933248666" duration="3886000" />
+      <workItem from="1647933248666" duration="7291000" />
     </task>
     <task id="LOCAL-00001" summary="这是pycharm提交">
       <created>1646638927172</created>
@@ -380,21 +432,28 @@
       <option name="project" value="LOCAL" />
       <updated>1647950787176</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="第四次作业">
+      <created>1647950866838</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1647950866838</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10823000" />
+    <option name="totallyTimeSpent" value="14228000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="0" width="1346" height="688" extended-state="0" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2690513" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18681319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4976672" visible="true" weight="0.32851985" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4976452" visible="true" weight="0.3028286" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,7 +461,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5023328" side_tool="true" visible="true" weight="0.32851985" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5023548" side_tool="true" visible="true" weight="0.3028286" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="调试" order="13" />
@@ -452,21 +511,36 @@
     <MESSAGE value="输出三位水仙花数" />
     <MESSAGE value="判断素数" />
     <MESSAGE value="循环小游戏" />
-    <option name="LAST_COMMIT_MESSAGE" value="循环小游戏" />
+    <MESSAGE value="第四次作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次作业" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/sunsun1111111111_github_io$0202.coverage" NAME="0202 Coverage Results" MODIFIED="1647238163179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_10.coverage" NAME="3-10 Coverage Results" MODIFIED="1647953610999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_2.coverage" NAME="3-2 Coverage Results" MODIFIED="1647951723971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_8.coverage" NAME="3-8 Coverage Results" MODIFIED="1647953329117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_5.coverage" NAME="3-5 Coverage Results" MODIFIED="1647952815572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/Python_github_io$0304.coverage" NAME="0304 Coverage Results" MODIFIED="1647948909181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
+    <SUITE FILE_PATH="coverage/Python_github_io$0402.coverage" NAME="0402 Coverage Results" MODIFIED="1647949738392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_16.coverage" NAME="3-16 Coverage Results" MODIFIED="1647954163037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
     <SUITE FILE_PATH="coverage/Python_github_io$0301.coverage" NAME="0301 Coverage Results" MODIFIED="1647947748256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
-    <SUITE FILE_PATH="coverage/Python_github_io$0403.coverage" NAME="0403 Coverage Results" MODIFIED="1647949869280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
-    <SUITE FILE_PATH="coverage/sunsun1111111111_github_io$0201.coverage" NAME="0201 Coverage Results" MODIFIED="1647237897701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_11.coverage" NAME="3-11 Coverage Results" MODIFIED="1647953790575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_17.coverage" NAME="3-17 Coverage Results" MODIFIED="1647954353531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/sunsun1111111111_github_io$0203.coverage" NAME="0203 Coverage Results" MODIFIED="1647239551691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_3.coverage" NAME="3-3 Coverage Results" MODIFIED="1647952405544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_6.coverage" NAME="3-6 Coverage Results" MODIFIED="1647952951167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/Python_github_io$0404.coverage" NAME="0404 Coverage Results" MODIFIED="1647950734339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
+    <SUITE FILE_PATH="coverage/sunsun1111111111_github_io$0202.coverage" NAME="0202 Coverage Results" MODIFIED="1647238163179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
     <SUITE FILE_PATH="coverage/Python_github_io$0303.coverage" NAME="0303 Coverage Results" MODIFIED="1647948380823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/Python_github_io$0401.coverage" NAME="0401 Coverage Results" MODIFIED="1647949376452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
-    <SUITE FILE_PATH="coverage/sunsun1111111111_github_io$0203.coverage" NAME="0203 Coverage Results" MODIFIED="1647239551691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_9.coverage" NAME="3-9 Coverage Results" MODIFIED="1647953421699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_1.coverage" NAME="3-1 Coverage Results" MODIFIED="1647951677380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/Python_github_io$0403.coverage" NAME="0403 Coverage Results" MODIFIED="1647949869280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_4.coverage" NAME="3-4 Coverage Results" MODIFIED="1647952644941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_7.coverage" NAME="3-7 Coverage Results" MODIFIED="1647953192017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/Python_github_io$3_15.coverage" NAME="3-15 Coverage Results" MODIFIED="1647954069901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_example" />
+    <SUITE FILE_PATH="coverage/sunsun1111111111_github_io$0201.coverage" NAME="0201 Coverage Results" MODIFIED="1647237897701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
     <SUITE FILE_PATH="coverage/sunsun1111111111_github_io$0204.coverage" NAME="0204 Coverage Results" MODIFIED="1647239040997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02" />
-    <SUITE FILE_PATH="coverage/Python_github_io$0304.coverage" NAME="0304 Coverage Results" MODIFIED="1647948909181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
-    <SUITE FILE_PATH="coverage/Python_github_io$0404.coverage" NAME="0404 Coverage Results" MODIFIED="1647950734339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
     <SUITE FILE_PATH="coverage/Python_github_io$0302.coverage" NAME="0302 Coverage Results" MODIFIED="1647948027495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
-    <SUITE FILE_PATH="coverage/Python_github_io$0402.coverage" NAME="0402 Coverage Results" MODIFIED="1647949738392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/02" />
@@ -489,13 +563,6 @@
     <entry file="file://$PROJECT_DIR$/01/0101.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/03/0301.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03/0302.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -517,31 +584,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/0401.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04/0402.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04/0403.py">
+    <entry file="file://$PROJECT_DIR$/03/0307.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04/0404.py">
+    <entry file="file://$PROJECT_DIR$/03/0308.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/0305.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/0301.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/0306.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_example/3-17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
