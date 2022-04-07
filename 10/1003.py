@@ -1,4 +1,4 @@
-#读入score.txt文件，统计每个班级的不及格人数
+#读入score.txt文件，统计每个班级的不及格人数error
 import pandas as pd
 path1="score.txt"
 f1=open(path1,'r',encoding='utf-8')

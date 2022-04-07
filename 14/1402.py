@@ -1,3 +1,4 @@
+#error
 import tkinter
 from tkinter import *
 import tkinter.messagebox
@@ -27,23 +28,7 @@ def order():
         lb2.configure(text="折扣价为{}元".format(c))
     else:
         lb2.configure(text="")
-def huiyuan():
-    z = 0
-    if var1.get() == 1:
-        z = z + 12
-    if var2.get() == 1:
-        z = z + 7
-    if var3.get() == 1:
-        z = z + 10
-    if var4.get() == 1:
-        z = z + 5
-    answer = tkinter.messagebox.askokcancel("会员付款界面", "请输入会员码")
 
-    if answer:
-        c = z * 0.8
-        lb.configure(text= "折扣价为{}元".format(c))
-    else:
-        lb.configure(text="")
 def count():
     s1 = s2 = s3 = s4 = ""
     z = 0
