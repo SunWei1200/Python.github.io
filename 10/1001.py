@@ -1,4 +1,4 @@
-#读入score.txt文件，统计每个年级一共有多少人error
+#读入score.txt文件，统计每个年级一共有多少人
 import jieba
 path1="score.txt"
 f1=open(path1,'r',encoding='utf-8')
